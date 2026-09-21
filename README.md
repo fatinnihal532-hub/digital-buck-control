@@ -8,6 +8,8 @@ sample, and can only produce the duty ratios a counter can count to.
 
 Everything runs on a laptop. No hardware, no MATLAB licence, no toolbox.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fatinnihal532-hub/digital-buck-control/blob/main/run_in_colab.ipynb)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="figures/loop_bode_dark.svg">
   <img alt="Three compensators on the same power stage" src="figures/loop_bode_light.svg">
